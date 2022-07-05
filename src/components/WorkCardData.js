@@ -1,25 +1,28 @@
-import pro1 from "../assets/project1.png"
-import pro2 from "../assets/project2.png"
-import pro3 from "../assets/project3.png"
+import pro1 from "../assets/myproject1.PNG"
+import pro2 from "../assets/myproject2.PNG"
+import pro3 from "../assets/myproject3.PNG"
 
 const ProjectCardData = [
     {
         imgsrc: pro1,
-        title: "Ecommerce Website Design",
-        text: "Thriving Facebook community and top-ranked podcast, Amy inspires a grounded, tangible and self-affirming sense of 'Wow! I can really do this' for over 100.000 online entrepreneurs. Best-selling marketing courses.",
-        view: "https://www.youtube.com/watch?v=P8YuWEkTeuE"
+        title: "MNTN Hiking - Landing Page",
+        text: "Explore the outdoors and live on the trail as this immersive website provides you with all the information and gear you would need to make your next hike, your best hike.",
+        view: "https://i-frostbyte.github.io/LandingPageMNTN/",
+        source: "https://github.com/I-Frostbyte?tab=repositories"
     },
     {
         imgsrc: pro2,
-        title: "LMS/Course Website Design",
-        text: "Thriving Facebook community and top-ranked podcast, Amy inspires a grounded, tangible and self-affirming sense of 'Wow! I can really do this' for over 100.000 online entrepreneurs. Best-selling marketing courses.",
-        view: "https://www.youtube.com/watch?v=P8YuWEkTeuE"
+        title: "FreeCodeCamp - Survey Form",
+        text: "Be more than just another coder on FreeCodeCamp, express your views, both positive or negative about the site in honesty and safety and help us make it the best training engine on the planet.",
+        view: "https://i-frostbyte.github.io/Certification-Project---Survey-Form/",
+        source: "https://github.com/I-Frostbyte?tab=repositories"
     },
     {
         imgsrc: pro3,
-        title: "Rymo Ecommerce Design",
-        text: "Thriving Facebook community and top-ranked podcast, Amy inspires a grounded, tangible and self-affirming sense of 'Wow! I can really do this' for over 100.000 online entrepreneurs. Best-selling marketing courses.",
-        view: "https://www.youtube.com/watch?v=P8YuWEkTeuE"
+        title: "Free Code Camp - Tribute Page",
+        text: "Learn of the man, the myth, the legend, John Ronald Reuel Tolkien and the many triumphs enjoyed and tribulations suffered on his way to creating his masterpieces: The Hobbit, The Lord of the Rings and encompassing the world of Middle-Earth in total - The Silmarillion",
+        view: "https://i-frostbyte.github.io/Certification-Project---Tribute-Page/",
+        source: "https://github.com/I-Frostbyte?tab=repositories"
     },
 ];
 
